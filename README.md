@@ -38,15 +38,13 @@
 <div align="center">
 
 ## 📞 KEEP IN TOUCH // Conexões
-<a href="https://instagram.com/alailsonsb" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
-</a>
-<a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
-</a>
-<a href="https://wa.me/71992622620" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" />
-</a>
+
+<p>
+<a href="https://instagram.com/alailsonsb" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" /></a>
+<a href="https://wa.me/71992622620" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="WhatsApp" /></a>
+</p>
+
 </div>
 
 <br>
