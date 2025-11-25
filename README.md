@@ -20,14 +20,6 @@ Estou começando minha jornada no desenvolvimento web e estou focado em aprender
 - 🔧 **Git & GitHub** - Controle de versão
 
 ### **🎯 Meus Objetivos**
-- [ ] Dominar HTML e CSS
-- [ ] Aprender JavaScript básico
-- [ ] Criar projetos simples
-- [ ] Evoluir constantemente
-
-## 🤝 **Vamos Conversar?**
-
-Estou sempre aberto a dicas, sugestões e conversas sobre tecnologia!
 
 **Email:** alailsonsileira@hotmail.com
 
@@ -48,14 +40,7 @@ Estou sempre aberto a:
 
 <div align="center">
   
-⚡ "Todo expert foi um dia iniciante. O importante é não parar de aprender!" ⚡
-  
-https://capsule-render.vercel.app/api?type=waving&color=0:E51E25,50:0047A0&height=80&section=footer&animation=fadeIn
 
-Obrigado pela visita! 😊
-Juntos na jornada do aprendizado! 📚
-
-</div> ```
 
 ⚡ **Foco, força e fé na jornada!** ⚡
 
