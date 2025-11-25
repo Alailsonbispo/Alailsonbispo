@@ -47,7 +47,9 @@ Estou sempre aberto a:
 ---
 
 <div align="center">
+  
 ⚡ "Todo expert foi um dia iniciante. O importante é não parar de aprender!" ⚡
+  
 https://capsule-render.vercel.app/api?type=waving&color=0:E51E25,50:0047A0&height=80&section=footer&animation=fadeIn
 
 Obrigado pela visita! 😊
