@@ -29,12 +29,23 @@ Estou começando minha jornada no desenvolvimento web e estou focado em aprender
 
 Estou sempre aberto a dicas, sugestões e conversas sobre tecnologia!
 
-**Email:** seuemail@exemplo.com
+**Email:** alailsonsileira@hotmail.com
 
 ---
 
 <div align="center">
 
+Estou sempre aberto a:
+💬 Conversas sobre tecnologia
+
+🎯 Dicas para iniciantes
+
+👥 Estudos em grupo
+
+🚀 Motivação mútua
+
+https://img.shields.io/badge/LinkedIn-Conectar-%25230047A0?style=for-the-flat&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-Conversar-%2523E51E25?style=for-the-flat&logo=gmail&logoColor=white
 ⚡ **Foco, força e fé na jornada!** ⚡
 
 </div>
