@@ -6,7 +6,7 @@
 
 **"Assim como no futebol, cada linha de código é um treino para a triunfo!"** 🚀
 
-[![Email](https://img.shields.io/badge/Email-Contato-%23E51E25?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Email-Contato-%23E51E25?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alailsonsilveira@hotmail.com)
 
 </div>
 
