@@ -24,24 +24,3 @@ Estou começando minha jornada no desenvolvimento web e estou focado em aprender
 **Email:** alailsonsileira@hotmail.com
 
 ---
-
-<div align="center">
-
-Estou sempre aberto a:
-💬 Conversas sobre tecnologia
-
-🎯 Dicas para iniciantes
-
-👥 Estudos em grupo
-
-🚀 Motivação mútua
-
----
-
-<div align="center">
-  
-
-
-⚡ **Foco, força e fé na jornada!** ⚡
-
-</div>
