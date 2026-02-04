@@ -63,9 +63,9 @@ Busco evoluir tecnicamente por meio de **projetos práticos, estudo constante e 
 ## 📈 GitHub Analytics
 > ⚠️ Substitua `SEU-USUARIO` pelo seu username real
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alailsonbispo&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alailsonbispo&layout=compact&theme=tokyonight)
 
 ---
 
