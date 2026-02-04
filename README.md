@@ -28,7 +28,6 @@
 
 ## 📫 **Como Me Encontrar**
 📧 **Email:** alailsonsileira@hotmail.com  
-⚽ **Fã do:** São Paulo FC 🟥🟦⬜  
 💬 **Disponível para:** Colaborações, projetos de estudo e troca de conhecimento
 
 ---
