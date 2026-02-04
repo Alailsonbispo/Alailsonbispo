@@ -55,16 +55,11 @@ Busco evoluir tecnicamente por meio de **projetos práticos, estudo constante e 
 ---
 
 ## 📫 Contato
-📧 **Email:** alailsonsileira@hotmail.com  
+📧 **Email:** alailsonbispos@icloud.com
 💼 **Interesse em:** estágio, vaga júnior, projetos de aprendizado e colaboração em Java
 
 ---
 
-## 📈 GitHub Analytics
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alailsonbispo&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alailsonbispo&layout=compact&theme=tokyonight)
 
 
 
