@@ -29,4 +29,21 @@ Sou um desenvolvedor em início de carreira com foco principal em **Java**, cons
 ### 📂 Projetos em Destaque
 *Os meus repositórios refletem minha evolução técnica e organização:*
 - **Aplicação Prática:** Foco em lógica e fundamentos de Java.
-- **Evolução Constante:** Projetos que demonstram clareza de
+- **Evolução Constante:** Projetos que demonstram clareza de código e versionamento profissional.
+
+---
+
+### 📫 Vamos nos conectar?
+- 📧 **Email:** [alailsonbispos@icloud.com](mailto:alailsonbispos@icloud.com)
+- 💼 **LinkedIn:** [Acesse meu perfil profissional aqui](https://www.linkedin.com/in/alailsonbispo/)
+
+---
+
+### 🔎 Observação para Recrutadores
+> Este perfil reflete minha fase de aprendizado intensivo. Estou focado em construir uma base técnica robusta e sou entusiasta de feedbacks que possam me ajudar a crescer como desenvolvedor back-end.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alailsonbispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
