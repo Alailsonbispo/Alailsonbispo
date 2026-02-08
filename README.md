@@ -3,7 +3,7 @@
 **Desenvolvedor Java em formação** | 📍 Brasil  
 *Aberto a oportunidades de estágio e júnior (Java / Back-end)*
 
-Sou um desenvolvedor em início de carreira com foco principal em **Java**, construindo uma base sólida em POO, lógica e boas práticas. Busco evoluir por meio de projetos práticos e desafios reais.
+Sou um desenvolvedor em início de carreira com foco principal em **Java**, construindo uma base sólida em Programação Orientada a Objetos (POO), lógica e boas práticas. Busco evoluir constantemente por meio de projetos práticos e desafios reais que acelerem minha jornada como desenvolvedor.
 
 ---
 
@@ -11,21 +11,22 @@ Sou um desenvolvedor em início de carreira com foco principal em **Java**, cons
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-**Foco atual:** Java (Fundamentos, POO, Estrutura de Dados)
+**Conhecimentos em:** Fundamentos de POO (Herança, Polimorfismo, Encapsulamento), Estrutura de Dados e Versionamento.
 
 ---
 
-### 🎯 Objetivos para 2026
-- [ ] Atuar como Dev Java Júnior ou Estagiário
-- [ ] Consolidar fundamentos de Spring Boot e APIs REST
-- [ ] Contribuir para projetos Open Source
-
-### 📫 Vamos nos conectar?
-📧 **Email:** alailsonbispos@icloud.com  
-💼 [Meu LinkedIn](https://www.linkedin.com/in/alailson-bispo-b645663ab/)
+### 🎯 Objetivos Profissionais (2026)
+- [ ] Atuar como Desenvolvedor Java Júnior ou Estagiário.
+- [ ] Consolidar fundamentos de **Spring Boot** e criação de APIs REST.
+- [ ] Implementar boas práticas de Clean Code e Testes Unitários (JUnit).
+- [ ] Contribuir com projetos Open Source.
 
 ---
 
-> 🔎 **Nota para recrutadores:** Este perfil reflete minha fase de aprendizado intensivo em Java. Estou focado em criar um código limpo, organizado e funcional.
+### 📂 Projetos em Destaque
+*Os meus repositórios refletem minha evolução técnica e organização:*
+- **Aplicação Prática:** Foco em lógica e fundamentos de Java.
+- **Evolução Constante:** Projetos que demonstram clareza de
