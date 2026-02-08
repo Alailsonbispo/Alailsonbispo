@@ -1,81 +1,31 @@
-# 👋 Olá, eu sou **Alailson Bispo**
+# 👋 Olá, eu sou Alailson Bispo
 
-☕ **Desenvolvedor Java em formação**  
-📍 Brasil | 🌐 Aberto a oportunidades **estágio e júnior (Java / Back-end)**  
+**Desenvolvedor Java em formação** | 📍 Brasil  
+*Aberto a oportunidades de estágio e júnior (Java / Back-end)*
 
-Sou um desenvolvedor em início de carreira com **foco principal em Java**, construindo uma base sólida em **programação orientada a objetos, lógica e boas práticas**, além de conhecimentos complementares em desenvolvimento web.
-
-Busco evoluir tecnicamente por meio de **projetos práticos, estudo constante e desafios reais**.
+Sou um desenvolvedor em início de carreira com foco principal em **Java**, construindo uma base sólida em POO, lógica e boas práticas. Busco evoluir por meio de projetos práticos e desafios reais.
 
 ---
 
-## 🧠 Principais Competências
-- **Java** (fundamentos, lógica e POO)
-- Programação Orientada a Objetos (classes, métodos, herança, encapsulamento)
-- Estrutura de algoritmos e resolução de problemas
-- Versionamento de código com **Git**
-- Organização e colaboração de projetos com **GitHub**
-- Conhecimentos básicos em **HTML, CSS e JavaScript** (apoio ao back-end)
+### 🛠️ Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
+
+**Foco atual:** Java (Fundamentos, POO, Estrutura de Dados)
 
 ---
 
-## ☕ Tecnologia Principal
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+### 🎯 Objetivos para 2026
+- [ ] Atuar como Dev Java Júnior ou Estagiário
+- [ ] Consolidar fundamentos de Spring Boot e APIs REST
+- [ ] Contribuir para projetos Open Source
+
+### 📫 Vamos nos conectar?
+📧 **Email:** alailsonbispos@icloud.com  
+💼 [Meu LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI)
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-## 🎯 Objetivos Profissionais (2026)
-- Atuar como **desenvolvedor Java júnior ou estagiário**
-- Consolidar fundamentos de **POO e boas práticas em Java**
-- Desenvolver projetos back-end com Java
-- Criar um **portfólio focado em Java**
-- Evoluir futuramente para **Spring Boot e APIs REST**
-- Contribuir com projetos open source
-
----
-
-## 📂 Projetos
-🔹 Meus repositórios demonstram:
-- Aplicação prática dos fundamentos de **Java**
-- Evolução progressiva de complexidade
-- Organização, versionamento e clareza de código
-
-> *(Projetos em constante evolução)*
-
----
-
-## 📫 Contato
-📧 **Email:** alailsonbispos@icloud.com
-💼 **Interesse em:** estágio, vaga júnior, projetos de aprendizado e colaboração em Java
-
----
-
-
-
-
-
-
----
-
-### ✅ Diferenciais
-- Foco em **Java como linguagem principal**
-- Aprendizado contínuo
-- Organização e disciplina nos estudos
-- Boa comunicação e abertura a feedbacks
-- Facilidade para aprender novas tecnologias
-
----
-
-### 🔎 Observação para recrutadores
-Este perfil reflete minha **fase de aprendizado em Java**, com foco em fundamentos sólidos e crescimento consistente.  
-Estou aberto a desafios que acelerem minha evolução como desenvolvedor back-end.
+> 🔎 **Nota para recrutadores:** Este perfil reflete minha fase de aprendizado intensivo em Java. Estou focado em criar um código limpo, organizado e funcional.
