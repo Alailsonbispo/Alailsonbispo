@@ -35,7 +35,7 @@ Sou um desenvolvedor em início de carreira com foco principal em **Java**, cons
 
 ### 📫 Vamos nos conectar?
 - 📧 **Email:** [alailsonbispos@icloud.com](mailto:alailsonbispos@icloud.com)
-- 💼 **LinkedIn:** [Acesse meu perfil profissional aqui](https://www.linkedin.com/in/alailsonbispo/)
+- 💼 **LinkedIn:** [Acesse meu perfil profissional aqui]([https://www.linkedin.com/in/alailsonbispo/](https://www.linkedin.com/in/alailson-bispo-b645663ab/))
 
 ---
 
