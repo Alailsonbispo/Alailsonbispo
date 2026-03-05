@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Alailson Bispo
 
-**Desenvolvedor Java em formação** | 📍 Brasil  
+**Desenvolvedor FullStack ** | 📍 Brasil  
 *Aberto a oportunidades de estágio e júnior (Java / Back-end)*
 
 Sou um desenvolvedor em início de carreira com foco principal em **Java**, construindo uma base sólida em Programação Orientada a Objetos (POO), lógica e boas práticas. Busco evoluir constantemente por meio de projetos práticos e desafios reais que acelerem minha jornada como desenvolvedor.
