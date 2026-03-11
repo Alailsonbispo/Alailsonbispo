@@ -1,35 +1,35 @@
 # 👋 Olá, eu sou Alailson Bispo
 
-**Desenvolvedor FullStack ** | 📍 Brasil  
-*Aberto a oportunidades de estágio e júnior (Java / Back-end)*
+**Desenvolvedor Fullstack & Estudante de ADS** | 📍 Salvador, Bahia  
+*Focado em ecossistema Java (Spring Boot) e Interfaces Modernas (Next.js)*
 
-Sou um desenvolvedor em início de carreira com foco principal em **Java**, construindo uma base sólida em Programação Orientada a Objetos (POO), lógica e boas práticas. Busco evoluir constantemente por meio de projetos práticos e desafios reais que acelerem minha jornada como desenvolvedor.
+Sou um desenvolvedor em transição de carreira, unindo a disciplina da minha trajetória profissional com a paixão por resolver problemas reais através do código. Atualmente, foco na construção de sistemas escaláveis e APIs robustas utilizando as versões mais recentes das tecnologias de mercado.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-**Conhecimentos em:** Fundamentos de POO (Herança, Polimorfismo, Encapsulamento), Estrutura de Dados e Versionamento.
+**Conhecimentos em:** Java 25, Spring Boot 3.4, REST APIs, Next.js, PostgreSQL e Metodologias Ágeis.
 
 ---
 
 ### 🎯 Objetivos Profissionais (2026)
+- [x] Desenvolver e deployar sistemas Fullstack reais.
 - [ ] Atuar como Desenvolvedor Java Júnior ou Estagiário.
-- [ ] Consolidar fundamentos de **Spring Boot** e criação de APIs REST.
-- [ ] Implementar boas práticas de Clean Code e Testes Unitários (JUnit).
-- [ ] Contribuir com projetos Open Source.
+- [ ] Aprofundar em Microsserviços e Cloud Computing (AWS/Azure).
+- [ ] Implementar Testes Unitários (JUnit) e Clean Architecture.
 
 ---
 
 ### 📂 Projetos em Destaque
-*Os meus repositórios refletem minha evolução técnica e organização:*
-- **Aplicação Prática:** Foco em lógica e fundamentos de Java.
-- **Evolução Constante:** Projetos que demonstram clareza de código e versionamento profissional.
+- **📦 Controle de Estoque & Patrimônio:** Sistema Fullstack (Java 25 + Next.js) com geração de relatórios e dashboard financeiro.
+- **🤖 Bot Alerta Bairro:** Solução de segurança comunitária utilizando automação via Telegram.
+- **☁️ Cloud Inventory (Em progresso):** Sistema de controle de suprimentos domésticos baseado em nuvem.
 
 ---
 
@@ -40,6 +40,4 @@ Sou um desenvolvedor em início de carreira com foco principal em **Java**, cons
 ---
 
 ### 🔎 Observação para Recrutadores
-> Este perfil reflete minha fase de aprendizado intensivo. Estou focado em construir uma base técnica robusta e sou entusiasta de feedbacks que possam me ajudar a crescer como desenvolvedor back-end.
-
----
+> Minha transição para a tecnologia é movida por consistência e entrega. Meus repositórios demonstram não apenas código, mas a capacidade de planejar e executar soluções de ponta a ponta.
