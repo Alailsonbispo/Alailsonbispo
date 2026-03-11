@@ -43,7 +43,3 @@ Sou um desenvolvedor em início de carreira com foco principal em **Java**, cons
 > Este perfil reflete minha fase de aprendizado intensivo. Estou focado em construir uma base técnica robusta e sou entusiasta de feedbacks que possam me ajudar a crescer como desenvolvedor back-end.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alailsonbispo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
