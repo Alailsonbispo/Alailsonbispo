@@ -1,9 +1,13 @@
 # 👋 Olá, eu sou Alailson Bispo
 
-**Desenvolvedor Fullstack & Estudante de ADS** | 📍 Salvador, Bahia  
+**Desenvolvedor Fullstack & Estudante de ADS** | 📍 Salvador, Bahia  
 *Focado no ecossistema Java (Spring Boot) e Interfaces Modernas (Next.js)*
 
-Sou um desenvolvedor em transição de carreira, unindo a disciplina da minha trajetória profissional com a paixão por resolver problemas reais através do código. Atualmente, foco na construção de sistemas escaláveis e APIs robustas utilizando as versões mais recentes das tecnologias de mercado.
+---
+🌐 **[Acesse meu Portfólio Interativo](https://portfolio-alailson.vercel.app/)**
+---
+
+Sou um desenvolvedor em transição de carreira, unindo a disciplina da minha trajetória profissional de 9 anos na área de segurança com a paixão por resolver problemas reais através do código. Atualmente, foco na construção de sistemas escaláveis e APIs robustas utilizando as versões mais recentes das tecnologias de mercado.
 
 ---
 
@@ -16,7 +20,7 @@ Sou um desenvolvedor em transição de carreira, unindo a disciplina da minha tr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-**Conhecimentos em:** Java 25, Spring Boot 3.4, REST APIs, Next.js, PostgreSQL e Docker.
+**Conhecimentos em:** Java 25, Spring Boot 3.4, REST APIs, Next.js, PostgreSQL, Node.js e Docker.
 
 ---
 
@@ -29,17 +33,18 @@ Sou um desenvolvedor em transição de carreira, unindo a disciplina da minha tr
 ---
 
 ### 📂 Projetos em Destaque
-- **📦 Controle de Estoque & Patrimônio:** Sistema Fullstack (**Java 25 + Next.js**) com geração de relatórios, isolamento via **Docker** e dashboard financeiro.
-- **🤖 Bot Alerta Bairro:** Solução de segurança comunitária utilizando automação via **Node.js** e Telegram API.
-- **🚀 Enterprise Inventory API (Em progresso):** Evolução do sistema de estoque para arquitetura de **Microsserviços**, focando em alta disponibilidade e mensageria (**RabbitMQ/Kafka**).
+- **📦 [Controle de Estoque & Patrimônio](https://github.com/Alailsonbispo/controle-estoque):** Sistema Fullstack (**Java 25 + Next.js**) com geração de relatórios, isolamento via **Docker** e dashboard financeiro.
+- **🤖 [Bot Alerta Bairro](https://github.com/Alailsonbispo/bot-alerta-bairro):** Solução de segurança comunitária utilizando automação via **Node.js** e Telegram API. [Ver Online](https://bot-alerta-bairro.vercel.app)
+- **🚀 [Agendador de Horários](https://github.com/Alailsonbispo/agendador-horarios):** Sistema de gestão de tempo e produtividade desenvolvido em **Java**, focado em workflows profissionais.
 
 ---
 
 ### 📫 Vamos nos conectar?
+- 💼 **LinkedIn:** [linkedin.com/in/alailson-bispo](https://www.linkedin.com/in/alailson-bispo-b645663ab/)
 - 📧 **Email:** [alailsonbispos@icloud.com](mailto:alailsonbispos@icloud.com)
-- 💼 **LinkedIn:** [Acesse meu perfil profissional aqui](https://www.linkedin.com/in/alailson-bispo-b645663ab/)
+- 🌐 **Portfolio:** [portfolio-alailson.vercel.app](https://portfolio-alailson.vercel.app/)
 
 ---
 
 ### 🔎 Observação para Recrutadores
-> Minha transição para a tecnologia é movida por consistência e entrega. Meus repositórios demonstram não apenas código, mas a capacidade de planejar e executar soluções de ponta a ponta.
+> Minha transição para a tecnologia é movida por consistência e entrega. Meus repositórios demonstram não apenas código, mas a capacidade de planejar e executar soluções de ponta a ponta. Trago a responsabilidade operacional de quem já gerenciou segurança em grandes centros para o ambiente de desenvolvimento.
