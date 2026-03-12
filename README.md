@@ -31,7 +31,7 @@ Sou um desenvolvedor em transição de carreira, unindo a disciplina da minha tr
 ### 📂 Projetos em Destaque
 - **📦 Controle de Estoque & Patrimônio:** Sistema Fullstack (Java 25 + Next.js) com geração de relatórios e dashboard financeiro.
 - **🤖 Bot Alerta Bairro:** Solução de segurança comunitária utilizando automação via Telegram.
-- 🚀 Enterprise Inventory API (Em progresso): Evolução do sistema de estoque para arquitetura de Microsserviços, focando em alta disponibilidade e mensageria (RabbitMQ/Kafka).
+- **🚀 Enterprise Inventory API (Em progresso): Evolução do sistema de estoque para arquitetura de Microsserviços, focando em alta disponibilidade e mensageria (RabbitMQ/Kafka).
 
 ---
 
